@@ -1,3 +1,4 @@
+#if 0
 #include "lampsmart_utils.h"
 #include "lampsmart_pro_fan.h"
 #include "esphome/core/log.h"
@@ -117,4 +118,5 @@ namespace esphome
   } // namespace lampsmartpro
 } // namespace esphome
 
+#endif
 #endif

@@ -1,3 +1,4 @@
+#if 0
 #pragma once
 
 #include "esphome.h"
@@ -38,3 +39,4 @@ namespace esphome
 
   } // namespace lampsmartpro
 } // namespace esphome
+#endif
